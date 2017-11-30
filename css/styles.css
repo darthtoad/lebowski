@@ -1,0 +1,47 @@
+body {
+  background: url(../img/dude.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.nihilist {
+  display: none;
+}
+
+.maude {
+  display: none;
+}
+
+.lebowski {
+  display: none;
+}
+
+.bunny {
+  display: none;
+}
+
+.china {
+  display: none;
+}
+
+.cowboy {
+  display: none;
+}
+
+.dude {
+  display: none;
+}
+
+.walter {
+  display: none;
+}
+
+.jesus {
+  display: none;
+}
+
+.donny {
+  display: none;
+}

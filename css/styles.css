@@ -6,6 +6,11 @@ body {
   background-size: cover;
 }
 
+img {
+  width: 600px;
+  border: 5px outset grey;
+}
+
 .nihilist {
   display: none;
 }
@@ -44,4 +49,10 @@ body {
 
 .donny {
   display: none;
+}
+
+@media screen and (max-width: 756px) {
+  img {
+    width: 400px;
+  }
 }
